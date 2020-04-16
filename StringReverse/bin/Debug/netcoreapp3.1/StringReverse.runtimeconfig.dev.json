@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Albatross\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Albatross\\.nuget\\packages"
+    ]
+  }
+}
